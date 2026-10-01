@@ -57,7 +57,7 @@ Multi-page JavaScript web application with intentionally bad UX, dynamic DOM int
 
 ## 🌱 Currently Developing
 
-I'm currently strengthening my full-stack development skills with Java, Spring Boot and Vue.js, with a focus on REST APIs, databases, application architecture and clean, maintainable code.
+I'm currently working on full-stack applications with Java, Spring Boot and Vue.js, with a focus on REST APIs, relational databases, application architecture and clean, maintainable code.
 
 ## 🎯 Career Focus
 
