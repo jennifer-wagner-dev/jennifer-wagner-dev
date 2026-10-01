@@ -20,27 +20,40 @@ Software development allows me to combine exactly these strengths: understanding
 
 ## 🚀 Featured Projects
 
-### 🐾 Animal Reporting Platform
-Full-stack application for reporting found and missing animals and connecting reports with relevant organisations.
+### 🐾 [Animal Reporting Platform – Case Study](https://github.com/jennifer-wagner-dev/animal-reporting-platform-case-study)
 
-**Tech:** Java, Spring Boot, Vue.js, PostgreSQL, REST APIs, Docker
+Full-stack team project for reporting found and missing animals and supporting communication with relevant organisations.
 
-**Current focus:**
-- found and missing animal reports
-- user roles and permissions
-- structured animal and location data
-- matching between reports
-- frontend-to-backend integration
+My main responsibility in the three-person team is the frontend development with Vue.js.
 
-### 🐄 Farm Simulation
-Java console application simulating a farm with animals, diseases, random events and interactions between different components.
+**Tech:** Java, Spring Boot, Vue.js, Pinia, Vuetify, PostgreSQL, REST APIs, Docker
 
-**Focus:** Java, OOP, inheritance, interfaces, collections and application logic
+**My focus:**
+- Vue.js views and reusable components
+- organisation dashboard and case workflows
+- Vue Router
+- Pinia state management
+- frontend/backend integration
 
-### 🎨 Bad UI
-Interactive web project experimenting with intentionally unusual and frustrating user-interface concepts.
+> The shared source code is not published. The repository documents the architecture, project scope and my individual contribution.
 
-**Focus:** HTML, CSS, JavaScript, DOM manipulation and event handling
+---
+
+### 🐄 [Java Farm Simulation](https://github.com/jennifer-wagner-dev/java-farm-simulation)
+
+Java console application simulating the management of a farm with different animal types, resources, diseases and random events.
+
+**Focus:** Java, OOP, inheritance, interfaces, polymorphism, collections and application logic
+
+---
+
+### 🎨 [Bad UI – PokéMeldeamt](https://github.com/jennifer-wagner-dev/bad-ui-web-project)
+
+Multi-page JavaScript web application with intentionally bad UX, dynamic DOM interactions and integration of the external PokeAPI.
+
+**Focus:** JavaScript, HTML, CSS, REST APIs, DOM manipulation, async/await and session storage
+
+🌐 **[Live Demo](https://jennifer-wagner-dev.github.io/bad-ui-web-project/)**
 
 ## 🌱 Currently Developing
 
