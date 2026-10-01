@@ -2,35 +2,39 @@
 
 I'm a junior software developer based in Vienna, currently completing a practice-oriented software development programme at CODERS.BAY.
 
-After working in social and administrative environments, I transitioned into software development because I enjoy combining structured thinking, problem-solving and technology with a strong understanding of users and processes.
+Before moving into IT, I studied Social Work while also working in an administrative role. Over time, it became increasingly clear to me that I especially enjoy analysing processes, solving concrete problems and working with digital systems.
 
-## 💻 Technologies & Skills
+Software development allows me to combine exactly these strengths: understanding complex requirements, building structured solutions and creating applications that provide real value for people.
 
-- Java & Object-Oriented Programming
-- JavaScript, HTML & CSS
-- Spring Boot & REST APIs
-- Vue.js & Pinia
+## Tech Stack
+
+- Java
+- Spring Boot
+- REST APIs
+- JavaScript
+- Vue.js
+- HTML & CSS
 - SQL & relational databases
 - Git & GitLab
 - Docker
-- Requirements Engineering
 
-## 🚀 Projects
+## Currently working on
 
-### 🐄 Farm Simulation
-A Java console application that simulates a farm with animals, diseases, random events and interactions between different components.
+A full-stack application for reporting found and missing animals.
 
-**Focus:** Java, OOP, inheritance, interfaces, collections and application logic
+The project includes:
+- Vue.js frontend
+- Spring Boot backend
+- PostgreSQL database
+- REST APIs
+- user roles and authentication
+- found and missing animal reports
+- matching between reports
+- Docker-based development setup
 
-### 🎨 Bad UI
-An interactive web project focused on intentionally unusual and frustrating user interface concepts.
+## What I'm looking for
 
-**Focus:** HTML, CSS, JavaScript, DOM manipulation and event handling
+I'm currently looking for an entry-level position in software development, application development or technical application management, where I can continue building practical experience and grow as a developer.
 
-## 🌱 Currently Learning
-
-I'm currently expanding my knowledge in Spring Boot, REST APIs, Vue.js and modern full-stack development.
-
-## 📫 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/jennifer-wagner-software/)
+📍 Vienna, Austria  
+📅 Available from November 2026
