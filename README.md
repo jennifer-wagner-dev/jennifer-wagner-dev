@@ -1,47 +1,52 @@
 # Hi, I'm Jennifer 👋
 
-I'm a junior software developer based in Vienna, currently completing a practice-oriented software development programme at CODERS.BAY.
+I'm a junior software developer based in Vienna. In October 2026, I completed a diploma programme in software development at CODERS.BAY Vienna.
+Before transitioning into IT, I earned a Bachelor's degree in Social Work and gained professional experience in administration and organisation in Germany.
+When I moved to Vienna, I decided to pursue a new career path and undertake professional training in software development.
+My previous experience has shaped the way I approach software development: analysing requirements, solving problems systematically and building applications that provide real value for people.
 
-Before moving into IT, I studied Social Work while also gaining practical experience in an administrative and organisational role. Over time, it became increasingly clear to me that, alongside working with people, I especially enjoy analysing processes, solving concrete problems and working with digital systems.
+## 🚧 Current Project - RS Prime 3D
 
-Software development allows me to combine exactly these strengths: understanding complex requirements, developing structured solutions and building applications that provide real value for people.
+I'm currently developing a website for a 3D printing business as an independent project.
+My main motivation is to expand my technology stack and gain practical experience with React and TypeScript by applying them to a real-world project.
+I'm building on my existing knowledge of full-stack development while exploring new technologies and further improving my software development skills.
 
 ## 💻 Technologies & Skills
 
-- Java & Object-Oriented Programming
-- Spring Boot & REST APIs
-- JavaScript, HTML & CSS
-- Vue.js & Pinia
-- SQL & relational databases
-- Git & GitLab
-- Docker
-- Requirements Engineering
-- Scrum
+**Backend:** Java, Spring Boot, REST APIs, JPA, Hibernate
+**Frontend:** JavaScript, Vue.js, Pinia, Vuetify, HTML, CSS
+**Databases:** SQL, PostgreSQL, H2
+**Tools:** Git, GitLab, GitHub, Docker, Postman
+**Methods:** Object-oriented programming, requirements engineering, Scrum
+**Currently learning:** React, TypeScript
 
 ## 🚀 Featured Projects
 
-### 🐾 [Animal Reporting Platform – Case Study](https://github.com/jennifer-wagner-dev/animal-reporting-platform-case-study)
+### 🐾 [TailPatrol – Animal Reporting Platform](https://github.com/jennifer-wagner-dev/tailpatrol-case-study)
 
-Full-stack team project for reporting found and missing animals and supporting communication with relevant organisations.
+Full-stack team project for reporting found and missing animals, recommending suitable animal welfare organisations and identifying potential matches between animal reports.
+My primary responsibility was frontend development and UI redesign.
 
-My main responsibility in the three-person team is the frontend development with Vue.js.
+**Tech:** Java, Spring Boot, Vue 3, Pinia, Vuetify, PostgreSQL, REST APIs, Docker
 
-**Tech:** Java, Spring Boot, Vue.js, Pinia, Vuetify, PostgreSQL, REST APIs, Docker
+**My contribution:**
+- Application views and reusable Vue components
+- Multi-step animal reporting workflows
+- Organisation dashboard and case management
+- Capacity management
+- Routing and state management
+- Frontend–backend integration
+- Responsive UI redesign
 
-**My focus:**
-- Vue.js views and reusable components
-- organisation dashboard and case workflows
-- Vue Router
-- Pinia state management
-- frontend/backend integration
+[View application screenshots](https://github.com/jennifer-wagner-dev/tailpatrol-case-study/tree/main/screenshots)
 
-> The shared source code is not published. The repository documents the architecture, project scope and my individual contribution.
+> The repository is a portfolio case study documenting the application, technical architecture and my individual contribution.
 
 ---
 
 ### 🐄 [Java Farm Simulation](https://github.com/jennifer-wagner-dev/java-farm-simulation)
 
-Java console application simulating the management of a farm with different animal types, resources, diseases and random events.
+My first Java project: an object-oriented console application simulating farm management with different animal types, resources, diseases and random events.
 
 **Focus:** Java, OOP, inheritance, interfaces, polymorphism, collections and application logic
 
@@ -49,23 +54,20 @@ Java console application simulating the management of a farm with different anim
 
 ### 🎨 [Bad UI – PokéMeldeamt](https://github.com/jennifer-wagner-dev/bad-ui-web-project)
 
-Multi-page JavaScript web application with intentionally bad UX, dynamic DOM interactions and integration of the external PokeAPI.
+My first frontend project: a multi-page JavaScript web application exploring deliberately bad UX through interactive elements, dynamic DOM manipulation and external API integration.
 
 **Focus:** JavaScript, HTML, CSS, REST APIs, DOM manipulation, async/await and session storage
 
 🌐 **[Live Demo](https://jennifer-wagner-dev.github.io/bad-ui-web-project/)**
 
-## 🌱 Currently Developing
-
-I'm currently working on full-stack applications with Java, Spring Boot and Vue.js, with a focus on REST APIs, relational databases, application architecture and clean, maintainable code.
-
 ## 🎯 Career Focus
 
-I'm looking for an entry-level position in software development, application development or technical application management where I can contribute my technical skills while continuing to learn and grow.
+I'm looking for a junior position in software development, application development or technical application management.
+I'm particularly interested in developing practical solutions, understanding complex systems and continuously expanding my technical skills.
 
 📍 Vienna, Austria  
-📅 Available from November 2026
+📅 Available immediately
 
 ## 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/jennifer-wagner-software/)
+[LinkedIn](https://www.linkedin.com/in/jennifer-wagner-dev/)
