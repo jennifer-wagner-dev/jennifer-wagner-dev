@@ -32,7 +32,7 @@ I'm building on my existing knowledge of full-stack development while exploring 
 
 ## 🚀 Featured Projects
 
-### 🐾 [TailPatrol - Animal Reporting Platform](https://github.com/jennifer-wagner-dev/tailpatrol-case-study)
+### 🐾 [TailPatrol - Animal Reporting Platform](https://github.com/jennifer-wagner-dev/TailPatrol)
 
 Full-stack team project for reporting found and missing animals, recommending suitable animal welfare organisations and identifying potential matches between animal reports.
 
@@ -49,7 +49,7 @@ My primary responsibility was frontend development and UI redesign.
 - Frontend–backend integration
 - Responsive UI redesign
 
-[View application screenshots](https://github.com/jennifer-wagner-dev/tailpatrol-case-study/tree/main/screenshots)
+[View application screenshots](https://github.com/jennifer-wagner-dev/TailPatrol/tree/main/screenshots)
 
 > The repository is a portfolio case study documenting the application, technical architecture and my individual contribution.
 
